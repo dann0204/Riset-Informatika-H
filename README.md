@@ -1,1 +1,3 @@
-**Integrasi OWASP ZAP dan Gemini untuk Otomatisasi Analisis Kerentanan Website Berdasarkan Standar OWASP Top 10** 
+Riset Informatika H
+Muhammad Fattah Ziidan
+NPM 22081010149
